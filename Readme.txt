@@ -1,2 +1,1 @@
-printf("Hi");
-printf("i'm Anton");
+printf("Hi11");
