@@ -1,2 +1,2 @@
 printf("Hi11");
-printf("огогоr");
+printf("о");
